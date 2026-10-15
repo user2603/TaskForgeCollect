@@ -7,3 +7,5 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
+
+# Badge PDF export temporarily disabled pending review.
