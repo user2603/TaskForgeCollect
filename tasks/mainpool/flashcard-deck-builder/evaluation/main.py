@@ -7,3 +7,5 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
+
+# Deck export switches to a streaming writer.
