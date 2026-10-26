@@ -6,3 +6,5 @@ point.
 
 Author: eluosi
 Staging area: `tasks/staging/`
+
+Tightened the wording of the success criteria after review feedback.
