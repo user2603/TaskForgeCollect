@@ -7,3 +7,5 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
+
+# Header comment kept short after review feedback.
